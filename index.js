@@ -19,7 +19,6 @@ const models = [
     id:3,
     type:"scene",
     imgUrl:"/Assets/0176.png",
-    /* img:<img src="./0176.png"/> */
     /* getImageSrc:require("/Assets/0176.png"), */
   },
   {
@@ -33,7 +32,6 @@ const models = [
     title:"Dimensions",
     id:5,
     type:"scene",
-    /* getImageSrc: () => require("/Assets/0176.png"), */
     imgUrl:"/Assets/trent-pickering-gPe52XyVGhU-unsplash.jpg"
   },
   {
@@ -47,7 +45,6 @@ const models = [
     title:"Purple Nebula",
     id:7,
     type:"abstract",
-    /* getImageSrc: () => require("/Assets/0176.png"), */
     imgUrl:"/Assets/nebula.jpg",
   },
   {
