@@ -20,16 +20,17 @@ let nav = `
             <ul class="dropdown-menu">
               <li><a class="dropdown-item" href="#">Learn</a></li>
               <li><a class="dropdown-item" href="#">Create</a></li>
-              <li><a class="dropdown-item" href="#">Community</a></li>
+              <li><a class="dropdown-item" href="#">Generate with AI ✨</a></li>
             </ul>
           </li>
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-              More
+              Connect
             </a>
             <ul class="dropdown-menu">
               <li><a class="dropdown-item" href="#">About</a></li>
               <li><a class="dropdown-item" href="#">FAQs</a></li>
+              <li><a class="dropdown-item" href="#">Community</a></li>
               <li><hr class="dropdown-divider"></li>
               <li><a class="dropdown-item" href="/Contact/card.html">Contact us</a></li>
             </ul>
