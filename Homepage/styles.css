@@ -70,13 +70,13 @@
     transform:scale(1.05);
   }
 
-  #signup-btn {
+  #signup-btn, #gallery-btn {
     background-color: blue;
     -webkit-transition: -webkit-transform 0.5s;
     transition: transform 0.5s ease;
     border: none;
   }
-  #signup-btn:hover {
+  #signup-btn:hover, #gallery-btn:hover  {
     -webkit-transform:scale(1.05);
     transform:scale(1.05);
     background-color: mediumblue;
@@ -117,3 +117,4 @@
   .featurette-heading {
     letter-spacing: -.05rem;
   }
+

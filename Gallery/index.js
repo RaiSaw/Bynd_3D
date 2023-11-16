@@ -81,7 +81,7 @@ const models = [
 
 $(() => {
   $("#title").append(
-    $("<h1></h1>").text("All"),
+    $("<h1></h1>").text("All Models"),
     $("<div>").addClass("btn-container")
   )
   $(".btn-container").append(
@@ -115,6 +115,7 @@ $(() => {
         "src": model.imgUrl,
         "type": model.type,
         "title": model.title,
+        "alt": model.title,
         /* "width": 240,
         "height": 240, -doesn't work */
       }).height(180).width(200).css({"cursor": "pointer"}),

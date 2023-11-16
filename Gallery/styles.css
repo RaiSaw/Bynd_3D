@@ -148,7 +148,7 @@
   width: 100%;
   left: 0;
 }
-.btn.gl.focus {
+.btn.gl:focus {
   color: black;
 }
 .btn-gl:focus::before {
@@ -170,3 +170,7 @@
       line-height: 1.4;
     }
   }
+
+  /* a .page-link {
+    color: mediumblue;
+  } */
