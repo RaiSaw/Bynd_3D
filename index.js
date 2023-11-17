@@ -45,7 +45,7 @@ const models = [
     title:"Purple Nebula",
     id:7,
     type:"abstract",
-    imgUrl:"/Assets/nebula.jpg",
+    imgUrl:"Assets/nebula.jpg",
   },
   {
     title:"Full Moon",
