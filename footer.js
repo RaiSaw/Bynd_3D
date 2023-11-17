@@ -30,7 +30,7 @@ let footer = `
             <li><a class="dropdown-item" href="#">FAQs</a></li>
             <li><a class="dropdown-item" href="#">Community</a></li>
             <li><hr class="dropdown-divider"></li>
-            <li><a class="dropdown-item" href="/card.html">Contact us</a></li>
+            <li><a class="dropdown-item" href="card.html">Contact us</a></li>
           </ul>
         </li>
       </ul>

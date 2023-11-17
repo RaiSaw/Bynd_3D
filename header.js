@@ -1,7 +1,7 @@
 let nav = `
 <nav class="navbar navbar-expand-lg fixed-top bg-body-tertiary">
     <div class="container-fluid">
-      <a id="cont" class="text-body-secondary text-decoration-none lh-1 rounded-circle" href="/index.html"><img class="h-8 w-auto" id="logo" src="/Assets/bynd.png" alt="Logo"></a>
+      <a id="cont" class="text-body-secondary text-decoration-none lh-1 rounded-circle" href="index.html"><img class="h-8 w-auto" id="logo" src="Assets/bynd.png" alt="Logo"></a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
